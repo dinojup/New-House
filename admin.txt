@@ -1,4 +1,4 @@
 New House reqs
 Review walls caracteristic
 Review water pipe system
-Review floor tiles
+Review floor tiles. They cost 20 colones per square meter
